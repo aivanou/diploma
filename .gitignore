@@ -9,11 +9,11 @@ programm_files/luceneIndex
 .*
 *.pyc
 
-Diploma_Java/bin/
-Diploma_Java/target/
-Diploma_Java/.idea/
-scala/target/
-scala/.idea_modules/
-scala/.idea/
+programm_files/Diploma_Java/bin/
+programm_files/Diploma_Java/target/
+programm_files/Diploma_Java/.idea/
+programm_files/scala/target/
+programm_files/scala/.idea_modules/
+programm_files/scala/.idea/
 
 !.gitignore
