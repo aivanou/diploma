@@ -1,0 +1,400 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"cla",
+				"classifier"
+			],
+			[
+				"def",
+				"defs	Method"
+			],
+			[
+				"f",
+				"features"
+			],
+			[
+				"c",
+				"col"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "diploma.tex",
+			"settings":
+			{
+				"buffer_size": 1059,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "gradient_boosting.tex",
+			"settings":
+			{
+				"buffer_size": 5704,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "not_my/boosting.tex",
+			"settings":
+			{
+				"buffer_size": 12750,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "Packages/LaTeXTools/LaTeX.sublime-build",
+	"command_palette":
+	{
+		"height": 54.0,
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"beame",
+				"Snippet: Beamer boxes"
+			],
+			[
+				"latex",
+				"LaTeXTools: View PDF"
+			],
+			[
+				"late",
+				"LaTeXTools: View PDF"
+			],
+			[
+				"ss  la",
+				"Set Syntax: LaTeX"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"ss la",
+				"Set Syntax: LaTeX"
+			],
+			[
+				"pc",
+				"Package Control: Disable Package"
+			],
+			[
+				"py",
+				"Snippet: New Property"
+			],
+			[
+				"pc in",
+				"Package Control: Install Package"
+			],
+			[
+				"pc d",
+				"Package Control: Disable Package"
+			],
+			[
+				"PC in",
+				"Package Control: Install Package"
+			],
+			[
+				"List",
+				"Build: List Python Files"
+			],
+			[
+				"opn",
+				"View: Toggle Open Files in Side Bar"
+			],
+			[
+				"set syntax j",
+				"Set Syntax: JSON"
+			],
+			[
+				"set syntax Java",
+				"Set Syntax: Java"
+			],
+			[
+				"",
+				"Build: Build"
+			],
+			[
+				"set syntax python",
+				"Set Syntax: Python"
+			],
+			[
+				"set syntax ja",
+				"Set Syntax: Java"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 139.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/tierex/study/diploma/record/not_my/canny.tex",
+		"/home/tierex/study/diploma/record/introduction.tex",
+		"/home/tierex/study/diploma/record/diploma.aux",
+		"/home/tierex/study/diploma/record/not_my/introduction.tex",
+		"/home/tierex/study/diploma/record/not_my/.gitignore",
+		"/home/tierex/study/diploma/record/not_my/diploma.tex",
+		"/home/tierex/study/diploma/record/test.tex",
+		"/home/tierex/study/diploma/record/diploma.tex",
+		"/home/tierex/study/diploma/record/diploma.pdf",
+		"/home/tierex/study/diploma/record/title.tex",
+		"/home/tierex/study/diploma/record/test.aux",
+		"/home/tierex/study/diploma/record/test.latex",
+		"/home/tierex/.config/sublime-text-2/Packages/Pylinter/Pylinter.sublime-settings",
+		"/home/tierex/.config/sublime-text-2/Packages/User/Preferences.sublime-settings",
+		"/home/tierex/.config/sublime-text-2/Packages/Default/Preferences.sublime-settings",
+		"/home/tierex/study/diploma/python/decisionTreeLibrary/DecisionTreeLibrary/.spyderproject",
+		"/home/tierex/study/diploma/python/decisionTreeLibrary/.spyderworkspace",
+		"/home/tierex/.config/sublime-text-2/Packages/User/Distraction Free.sublime-settings",
+		"/home/tierex/.config/sublime-text-2/Packages/User/Python.sublime-settings",
+		"/home/tierex/.config/sublime-text-2/Packages/User/my_python.sublime-build",
+		"/home/tierex/tests/Main.java",
+		"/home/tierex/tests/test.sublime-workspace",
+		"/home/tierex/.config/sublime-text-2/Packages/User/Default (Linux).sublime-keymap"
+	],
+	"find":
+	{
+		"height": 40.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"алгоритм",
+			" \n",
+			"заключается",
+			":",
+			". ",
+			".\n",
+			"автоматическом",
+			" \n",
+			"\n",
+			".  ",
+			"\n",
+			"Введение",
+			"ыволм",
+			"classifier",
+			"targer",
+			"max_depth",
+			"    ",
+			"Leaf",
+			"self",
+			"def",
+			"import",
+			"_right",
+			"output",
+			"def",
+			"self",
+			"simple_print"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "diploma.tex",
+					"settings":
+					{
+						"buffer_size": 1059,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1059,
+								1059
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/LaTeX/LaTeX.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 528.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "gradient_boosting.tex",
+					"settings":
+					{
+						"buffer_size": 5704,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4688,
+								4688
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/LaTeX/LaTeX.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1738.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "not_my/boosting.tex",
+					"settings":
+					{
+						"buffer_size": 12750,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4116,
+								4116
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/LaTeX/LaTeX.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1069.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 40.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 112.0
+	},
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"grai",
+				"decisionTreeLibrary/DecisionTreeLibrary/GradientBoostingClassifier.py"
+			],
+			[
+				"main.java",
+				"Main.java"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"/home/tierex/tests/test.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 237.0,
+	"status_bar_visible": true
+}
