@@ -19,6 +19,7 @@
 \usepackage{hyphenat}
 \usepackage{setspace}
 \usepackage{fancyhdr}
+\usepackage{lastpage}
 
 \pagestyle{fancyplain}
 \fancyhf{}
@@ -38,12 +39,23 @@
 
 \begin{document}
 
+\input{annotation.tex}
+\input{abstract.tex}
+
 \setcounter{page}{1}
 \tableofcontents
 \newpage
 
 \input{introduction.tex}
+\input{architecture.tex}
 \input{gradient_boosting.tex}
+\input{decision_trees.tex}
+\input{dbn.tex}
+\input{ot.tex}
+\input{economics.tex}
+\input{conclusion.tex}
+\input{bibliography.tex}
+
 
 \end{document}
 
