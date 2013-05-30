@@ -3,47 +3,23 @@
 	{
 		"selected_items":
 		[
+			[
+				"cri",
+				"criteriaValue"
+			],
+			[
+				"li",
+				"lstlisting"
+			]
 		]
 	},
 	"buffers":
 	[
 		{
-			"file": "diploma.tex",
+			"file": "introduction.tex",
 			"settings":
 			{
-				"buffer_size": 1280,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "economics.tex",
-			"settings":
-			{
-				"buffer_size": 197,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "decision_trees.tex",
-			"settings":
-			{
-				"buffer_size": 14311,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "bibliography.tex",
-			"settings":
-			{
-				"buffer_size": 1818,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "architecture.tex",
-			"settings":
-			{
-				"buffer_size": 13488,
+				"buffer_size": 5381,
 				"line_ending": "Unix"
 			}
 		},
@@ -51,7 +27,15 @@
 			"file": "gradient_boosting.tex",
 			"settings":
 			{
-				"buffer_size": 12989,
+				"buffer_size": 12876,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "decision_trees.tex",
+			"settings":
+			{
+				"buffer_size": 14293,
 				"line_ending": "Unix"
 			}
 		},
@@ -59,7 +43,39 @@
 			"file": "dbn.tex",
 			"settings":
 			{
-				"buffer_size": 13397,
+				"buffer_size": 13360,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "architecture.tex",
+			"settings":
+			{
+				"buffer_size": 19858,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "application_b.tex",
+			"settings":
+			{
+				"buffer_size": 803,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "diploma.tex",
+			"settings":
+			{
+				"buffer_size": 8693,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "abstract.tex",
+			"settings":
+			{
+				"buffer_size": 1740,
 				"line_ending": "Unix"
 			}
 		}
@@ -124,23 +140,36 @@
 	},
 	"file_history":
 	[
-		"/home/alex/study/diploma/diploma_git/record/abstract.tex",
-		"/home/alex/study/diploma/diploma_git/record/introduction.tex",
-		"/home/alex/study/diploma/diploma_git/record/ot.tex",
-		"/home/alex/study/diploma/not_my/canny.tex",
 		"/home/alex/study/diploma/diploma_git/record/annotation.tex",
+		"/home/alex/study/diploma/diploma_git/record/economics.tex",
+		"/home/alex/study/diploma/diploma_git/record/application_c.tex",
+		"/home/alex/study/diploma/diploma_git/record/diploma.tex",
+		"/home/alex/study/diploma/diploma_git/record/application_a.tex",
+		"/home/alex/study/diploma/diploma_git/record/sorry_form.tex",
+		"/home/alex/study/diploma/diploma_git/programm_files/python/decisionTreeLibrary/DecisionTreeLibrary/treeHandler.py",
+		"/home/alex/study/diploma/diploma_git/record/application_b.tex",
+		"/home/alex/study/diploma/diploma_git/record/bibliography.tex",
+		"/home/alex/study/diploma/diploma_git/record/diploma.log",
 		"/home/alex/study/diploma/diploma_git/record/conclusion.tex",
-		"/home/alex/study/diploma/not_my/shapecontext.tex",
+		"/home/alex/study/diploma/diploma_git/programm_files/python/decisionTreeLibrary/DecisionTreeLibrary/treeBuilder.py",
+		"/home/alex/study/diploma/diploma_git/record/example.py",
+		"/home/alex/study/diploma/diploma_git/record/architecture.tex",
+		"/home/alex/study/diploma/diploma_git/record/abstract.tex",
+		"/home/alex/study/diploma/diploma_git/record/ot.tex",
+		"/home/alex/study/diploma/diploma_git/record/gradient_boosting.tex",
+		"/home/alex/study/diploma/diploma_git/record/decision_trees.tex",
+		"/home/alex/study/diploma/diploma_git/record/dbn.tex",
+		"/home/alex/study/diploma/diploma_git/record/architecture.log",
+		"/home/alex/study/diploma/diploma_git/record/review_subject_area.tex",
 		"/home/alex/study/diploma/diploma_git/record/review.tex",
+		"/home/alex/study/diploma/diploma_git/record/introduction.tex",
 		"/home/alex/study/diploma/diploma_git/record/dbn.aux",
+		"/home/alex/study/diploma/not_my/canny.tex",
+		"/home/alex/study/diploma/not_my/shapecontext.tex",
 		"/home/alex/study/diploma/not_my/conclusion.tex",
 		"/home/alex/study/diploma/not_my/boosting.tex",
-		"/home/alex/study/diploma/diploma_git/record/dbn.tex",
 		"/home/alex/study/diploma/diploma_git/record/desision_trees.tex",
-		"/home/alex/study/diploma/diploma_git/record/architecture.tex",
-		"/home/alex/study/diploma/diploma_git/record/gradient_boosting.tex",
 		"/home/alex/study/diploma/diploma_git/record/diploma.pdf",
-		"/home/alex/study/diploma/diploma_git/record/diploma.log",
 		"/home/alex/study/diploma/not_my/diploma.tex",
 		"/home/alex/study/diploma/not_my/detection.tex",
 		"/home/alex/study/diploma/not_my/diploma.pdf",
@@ -162,6 +191,45 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"figu",
+			"gini",
+			"пользователь",
+			"схематиче",
+			"схематическое",
+			"equation",
+			"par",
+			"байес",
+			"Байесовская",
+			"Байес",
+			"Байесовские",
+			"байесовскими",
+			"байес",
+			"байесовской",
+			"байес",
+			"байесовских",
+			"байес",
+			"байесовский",
+			"байесовской",
+			"байесовская",
+			"subsection",
+			"метри",
+			"метрики",
+			"качес",
+			"метрики каче",
+			"[20]",
+			"subsection",
+			"ndcg-picture",
+			"figure",
+			"tocloft",
+			"spacefactor",
+			"\\spacefactor",
+			"subsub",
+			"sub",
+			"algo",
+			"figure",
+			"architecture",
+			"схема",
+			"сис",
 			"Phi",
 			"рис",
 			"adaboost-algorithm",
@@ -191,23 +259,22 @@
 	"groups":
 	[
 		{
-			"selected": 0,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "diploma.tex",
+					"file": "introduction.tex",
 					"settings":
 					{
-						"buffer_size": 1280,
+						"buffer_size": 5381,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								591,
-								591
+								68,
+								68
 							]
 						],
 						"settings":
@@ -222,18 +289,130 @@
 				},
 				{
 					"buffer": 1,
-					"file": "economics.tex",
+					"file": "gradient_boosting.tex",
 					"settings":
 					{
-						"buffer_size": 197,
+						"buffer_size": 12876,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								133,
-								133
+								5863,
+								5863
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/LaTeX/LaTeX.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 768.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "decision_trees.tex",
+					"settings":
+					{
+						"buffer_size": 14293,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								10488,
+								10488
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/LaTeX/LaTeX.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1239.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "dbn.tex",
+					"settings":
+					{
+						"buffer_size": 13360,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								9542,
+								9542
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/LaTeX/LaTeX.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 2304.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "architecture.tex",
+					"settings":
+					{
+						"buffer_size": 19858,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								15972,
+								15972
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/LaTeX/LaTeX.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 3950.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "application_b.tex",
+					"settings":
+					{
+						"buffer_size": 803,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								136,
+								136
 							]
 						],
 						"settings":
@@ -247,131 +426,19 @@
 					"type": "text"
 				},
 				{
-					"buffer": 2,
-					"file": "decision_trees.tex",
-					"settings":
-					{
-						"buffer_size": 14311,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								4227,
-								4227
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/LaTeX/LaTeX.tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 286.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 3,
-					"file": "bibliography.tex",
-					"settings":
-					{
-						"buffer_size": 1818,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								1244,
-								1244
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/LaTeX/LaTeX.tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 220.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 4,
-					"file": "architecture.tex",
-					"settings":
-					{
-						"buffer_size": 13488,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								12441,
-								12441
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/LaTeX/LaTeX.tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 5754.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 5,
-					"file": "gradient_boosting.tex",
-					"settings":
-					{
-						"buffer_size": 12989,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								1970,
-								1970
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/LaTeX/LaTeX.tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 482.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
 					"buffer": 6,
-					"file": "dbn.tex",
+					"file": "diploma.tex",
 					"settings":
 					{
-						"buffer_size": 13397,
+						"buffer_size": 8693,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								4476,
-								4476
+								8161,
+								8161
 							]
 						],
 						"settings":
@@ -381,7 +448,33 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 1384.0,
+						"translation.y": 3188.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "abstract.tex",
+					"settings":
+					{
+						"buffer_size": 1740,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								165,
+								165
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/LaTeX/LaTeX.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
@@ -391,7 +484,7 @@
 	],
 	"incremental_find":
 	{
-		"height": 0.0
+		"height": 34.0
 	},
 	"input":
 	{
@@ -426,7 +519,7 @@
 	},
 	"replace":
 	{
-		"height": 0.0
+		"height": 64.0
 	},
 	"save_all_on_build": true,
 	"select_file":
@@ -434,6 +527,30 @@
 		"height": 0.0,
 		"selected_items":
 		[
+			[
+				"ann",
+				"record/annotation.tex"
+			],
+			[
+				"eci",
+				"record/economics.tex"
+			],
+			[
+				"abst",
+				"record/abstract.tex"
+			],
+			[
+				"diploma",
+				"record/diploma.tex"
+			],
+			[
+				"app",
+				"record/application_b.tex"
+			],
+			[
+				"di",
+				"record/diploma.tex"
+			]
 		],
 		"width": 0.0
 	},
